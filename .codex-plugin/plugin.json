@@ -1,0 +1,10 @@
+{
+  "name": "marketing-team-skills",
+  "description": "The skills an AI marketing team runs every day: trend keywords, SEO pages, comparison and programmatic pages, multilingual SEO, indexing, AI search, a daily report, and UGC short video: account warm-up, trend scouting, viral remakes, video formats, Remotion, publishing and retros. By Crewmark AI.",
+  "version": "0.2.0",
+  "author": { "name": "Crewmark AI", "url": "https://crewmark.ai" },
+  "homepage": "https://crewmark.ai/skills",
+  "repository": "https://github.com/ummydev/marketing-team-skills",
+  "license": "MIT",
+  "skills": "./skills/"
+}

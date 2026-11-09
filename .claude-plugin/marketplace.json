@@ -1,0 +1,16 @@
+{
+  "name": "marketing-team-skills",
+  "owner": { "name": "Crewmark AI", "url": "https://crewmark.ai" },
+  "metadata": {
+    "description": "The skills an AI marketing team runs every day, by Crewmark AI",
+    "version": "0.2.0",
+    "repository": "https://github.com/ummydev/marketing-team-skills"
+  },
+  "plugins": [
+    {
+      "name": "marketing-team-skills",
+      "description": "SEO skills from a working AI marketing team: trend keywords, keyword research, SEO pages, competitor and programmatic pages, multilingual SEO, indexing, AI search, a daily report, and UGC short video from scouting to publishing",
+      "source": "./"
+    }
+  ]
+}
